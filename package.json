@@ -1,0 +1,14 @@
+{
+  "name": "electron-NVC-template",
+  "version": "1.0.0",
+  "description": "A simple template for your electron projects.",
+  "main": "./src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^10.1.5"
+  }
+}

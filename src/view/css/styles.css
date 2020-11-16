@@ -1,0 +1,8 @@
+/* To achieve a more native look, text highlighting and content dragging 
+   are disabled by default */
+ *, *::after, *::before {
+	-webkit-user-select: none;
+	-webkit-user-drag: none;
+	-webkit-app-region: no-drag;
+	cursor: default;
+}
